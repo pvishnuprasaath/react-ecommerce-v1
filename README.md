@@ -18,4 +18,6 @@ Minimal e-commerce web app for fashion shopping.
 
 ### Design
 
-![](assets/20230207_145820_react_ecomm_design2.jpg)
+![Design](assets/20230207_145820_react_ecomm_design2.jpg)
+
+![FLowGif](assets/react_ecommerce_demo_2.gif)
