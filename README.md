@@ -14,17 +14,20 @@ Minimal e-commerce web app for fashion shopping.
 
 - NodeJS
 - Strapi Headless CMS with MySQL for content management
+- MySQL
 - Stripe payment API
 
-### Design
+## Design
 
 ![Design](assets/20230207_145820_react_ecomm_design2.jpg)
 
 ## FlowGif
 
+Click to play gif
+
 ![FLowGif](assets/react_ecommerce_demo_2.gif)
 
-For Development
+## For Dev
 
 - Clone this repo `git clone https://github.com/pvishnuprasaath/react-ecommerce-v1.git` (client is the required one)
 - Create `.env` for both client and api. Use the `.env.example` as template
