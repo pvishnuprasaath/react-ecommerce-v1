@@ -19,7 +19,7 @@ Minimal e-commerce web app for fashion shopping.
 
 ## Design
 
-![Design](assets/20230207_145820_react_ecomm_design2.jpg)
+![Design](assets/react_ecomm_design2.jpg)
 
 ## FlowGif
 
